@@ -5,3 +5,8 @@
 - Practiced using openAI's API to generate paintings, it did not seem very powerful compared to other image generators
 - The AI doesn't make its own artistic choices, but it can produce some creative ideas upon the right prompts
 - Not sure how to get more realistic and interesting paintings
+
+
+#### NLP pratice
+
+- Learing how to read, sort and analyze text data using nltk library
